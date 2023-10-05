@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.language-details-container {
+  display: flex;
+  align-items: center;
+}
+.repos-app {
+  background-color: #ffffff;
+  min-height: 100vh;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.popular-heading {
+  font-size: 40px;
+  font-family: 'Lobster';
+  color: #0f172a;
+}
+.repos-list {
+  display: flex;
+  flex-wrap: wrap;
+}
